@@ -1,2 +1,6 @@
 Usar el stash
+<<<<<<< Updated upstream
 Modificacion desarrollador
+=======
+Modificacion de uso
+>>>>>>> Stashed changes
