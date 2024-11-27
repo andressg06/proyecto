@@ -1,1 +1,2 @@
 ejercicio 5
+console.log(undefinedVariable);
